@@ -1,0 +1,17 @@
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\bin\Debug\FieldCalibration.exe.config
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\bin\Debug\FieldCalibration.exe
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\bin\Debug\FieldCalibration.pdb
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\obj\Debug\FieldCalibration.FieldCal.resources
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\obj\Debug\FieldCalibration.Properties.Resources.resources
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\obj\Debug\FieldCalibration.csproj.GenerateResource.cache
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\obj\Debug\FieldCalibration.csproj.CoreCompileInputs.cache
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\obj\Debug\FieldCalibration.exe
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\obj\Debug\FieldCalibration.pdb
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\bin\Debug\MathNet.Numerics.Data.Text.dll
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\bin\Debug\MathNet.Numerics.dll
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\bin\Debug\MathNet.Numerics.xml
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\bin\Debug\MathNet.Numerics.Data.Text.xml
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\obj\Debug\FieldCalibration.csproj.CopyComplete
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\obj\Debug\FieldCalibration.Help.resources
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\obj\Debug\FieldCalibration.csproj.AssemblyReference.cache
+C:\Users\Steve Maier\Documents\RTI local\RTI_Development\RTI_Software\FieldCalibration\obj\Debug\FieldCalibration.csproj.SuggestedBindingRedirects.cache
